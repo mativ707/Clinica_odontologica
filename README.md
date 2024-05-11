@@ -32,3 +32,7 @@ Para utilizar este proyecto, simplemente sigue estas instrucciones:
 2. Configura el servidor de aplicaciones y la base de datos según las especificaciones del proyecto.
 3. Importa el proyecto en tu IDE preferido y asegúrate de que todas las dependencias estén resueltas.
 4. Ejecuta el proyecto y accede a la aplicación a través de tu navegador web.
+
+## Autor
+
+LinkedIn : [Matias Velazquez](https://www.linkedin.com/in/mativ707)
