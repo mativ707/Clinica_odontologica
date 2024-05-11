@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio de la Clínica Odontológica!
 
-Esta aplicación web está diseñada para simplificar la gestión de una clínica odontológica, ofreciendo funcionalidades tanto para los administradores como para los odontólogos y secretarios.
+Esta aplicación web, desarrollada en Java utilizando tecnologías como JSP (JavaServer Pages), JPA (Java Persistence API), Apache Tomcat y MySQL, está diseñada para simplificar la gestión de una clínica odontológica, ofreciendo funcionalidades tanto para los administradores como para los odontólogos y secretarios.
 
 ### ***Para los Administradores***
 
